@@ -1,15 +1,16 @@
 # ---------------- #
 #   Main Configs   #
 # ---------------- #
-url: https://onefeng.github.io
+url: https://fcct.github.io
 date_format: "ordinal"
-title: 晚风
-subtitle: 风决意要走，云怎能挽留...
-description: "晚风的个人博客"
-keywords: 程序员，onefeng
+title: 充足的睡眠
+subtitle: 大雪下我心，小雪留我情....
+description: "充足的睡眠的知识星球"
+keywords: 程序员，fcct
 timezone: Asia/Shanghai
 encoding: "utf-8"
-repository: onefeng/onefeng.github.io
+repository: Fcct1997/fcct.github.io
+
 
 # 对 css 和 js 资源的 cdn 加速配置
 cdn:
